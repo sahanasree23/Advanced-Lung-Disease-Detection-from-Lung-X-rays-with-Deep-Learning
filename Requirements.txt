@@ -1,4 +1,4 @@
-#REQUIREMENTS:
+
 1. Layers and Models in TensorFlow and Keras:
     - Dense, Flatten, Input: Fundamental Keras layers used to build the architecture of a neural network.
     - Model: The Keras Model class is used to define a model by specifying its input and output layers.
