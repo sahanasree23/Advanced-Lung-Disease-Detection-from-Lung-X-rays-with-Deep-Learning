@@ -1,1 +1,1 @@
-# Advanced-COVID-19-Detection-from-Lung-X-rays-with-Deep-Learning
+# Advanced lung disease-Detection-from-Lung-X-rays-with-Deep-Learning
